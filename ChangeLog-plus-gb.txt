@@ -1,4 +1,4 @@
-{"version_code":452559,"content":"
+{"version_code":451209,"content":"
 <p>update 1.20</p>
 
 <li>Fix update you must upgrade now</li>
