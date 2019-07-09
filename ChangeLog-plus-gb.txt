@@ -1,12 +1,17 @@
-{"version_code":451209,"content":"
-<p>update 1.20</p>
+{"version_code":451214,"content":"
+<p>update 1.50</p>
 
-<li>Fix update you must upgrade now</li>
-<li>Fix update you must upgrade now</li>
-<li>Fix update you must upgrade now</li>
-<li>Fix update you must upgrade now</li>
-<li>Fix update you must upgrade now</li>
-<li>Fix update you must upgrade now</li>
+<li>Complete Anti Ban (Refer Note) </li>
+<li>1- Take Chats Backup</li>
+<li>2- Uninstall/remove YoWhatsApp first</li>
+<li>3- Install V7.99 and Verify number again.</li>
+<li>Added Video Splitter for Story</li>
+<li>Added Navigation Bar in Main Screen</li>
+<li>Added option to show/hide Navigation Bar</li>
+<li>Option to select Custom Color Background for Text Statuskl</li>
+<li>Added option to select color for hearth icon in conversation screen</li>
+<li>New improvements to the floating button</li>
+<li>Many More Fixes</li>
 
-","url":"http://mmapps.cf"
+","url":"https://www.mmapps.cf"
 }
