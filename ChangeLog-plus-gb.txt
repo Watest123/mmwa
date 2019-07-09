@@ -3,7 +3,7 @@
 
 <li>Complete Anti Ban (Refer Note) </li>
 <li>1- Take Chats Backup</li>
-<li>2- Uninstall/remove YoWhatsApp first</li>
+<li>2- Uninstall/Remove MessageIT/WhatsApp first</li>
 <li>3- Install V1.50 and Verify number again.</li>
 <li>Added Video Splitter for Story</li>
 <li>Added Navigation Bar in Main Screen</li>
